@@ -1,4 +1,4 @@
-# ascero_barcode_scanner
+# OCR_barcode_scanner
 
 A new Flutter project.
 
